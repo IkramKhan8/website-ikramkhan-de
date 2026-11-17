@@ -1,0 +1,18 @@
+# Ikram Khan
+
+> Data scientist and machine learning engineer in Aachen, Germany. Junior Data Scientist since September 2026; M.Sc. Data Science, RWTH Aachen University. Focus: clinical ML, LLM and RAG systems, explainable AI and MLOps.
+
+## Pages
+
+- [Home](https://ikramkhan.de/): Ikram Khan is a data scientist and ML engineer in Aachen building clinical risk models, LLM and RAG systems, explainable AI and MLOps for production.
+- [About](https://ikramkhan.de/about.html): From backend developer to data scientist: M.Sc. Data Science at RWTH Aachen, clinical ML at Uniklinik RWTH Aachen and LLM analytics at Aixigo AG.
+- [Expertise](https://ikramkhan.de/expertise.html): Predictive modelling, LLM and RAG systems, explainable AI, MLOps, data engineering and process mining, each backed by work I have shipped.
+- [Work](https://ikramkhan.de/work.html): Case studies: ICU mortality prediction (AUC 0.978), a private clinical RAG system, the Smart Portfolio Insider and process mining for IT service desks.
+- [FAQ](https://ikramkhan.de/faq.html): Answers about my background, how I approach ML problems, deploying models, private LLMs and working with sensitive clinical data.
+- [Contact](https://ikramkhan.de/contact.html): Get in touch about my work, a research or open-source collaboration, or machine learning in production. Based in Aachen, Germany.
+
+## Profiles
+
+- GitHub: https://github.com/IkramKhan8
+- Hugging Face: https://huggingface.co/IkramKhan8
+- LinkedIn: https://www.linkedin.com/in/ikramdkhan
